@@ -7,7 +7,7 @@
 
 
 
-This project includes:
+## This project includes:
 
 1. Mock data generation
 2. Data preparation and model fine-tuning
