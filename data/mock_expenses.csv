@@ -1,0 +1,1001 @@
+date,category,amount,description
+2021-01-01,Entertainment,138.89,Video games
+2021-01-02,Transport,33.6,Parking fees
+2021-01-03,Food,73.77,Restaurant dinner
+2021-01-04,Entertainment,10.45,Concert tickets
+2021-01-05,Transport,28.46,Gas
+2021-01-06,Transport,76.99,Car maintenance
+2021-01-07,Transport,8.52,Uber ride
+2021-01-08,Food,85.43,Grocery shopping
+2021-01-09,Utilities,84.85,Water bill
+2021-01-10,Other,194.91,Home decor
+2021-01-11,Transport,73.14,Public transport pass
+2021-01-12,Transport,33.39,Public transport pass
+2021-01-13,Transport,19.91,Car maintenance
+2021-01-14,Food,56.91,Farmers market
+2021-01-15,Entertainment,71.21,Books
+2021-01-16,Other,134.46,Office supplies
+2021-01-17,Entertainment,32.65,Books
+2021-01-18,Utilities,119.8,Electricity bill
+2021-01-19,Food,15.95,Coffee and snacks
+2021-01-20,Entertainment,105.77,Video games
+2021-01-21,Entertainment,134.05,Video games
+2021-01-22,Entertainment,81.08,Streaming subscription
+2021-01-23,Food,63.14,Takeout lunch
+2021-01-24,Entertainment,139.9,Concert tickets
+2021-01-25,Utilities,250.27,Electricity bill
+2021-01-26,Entertainment,41.4,Movie tickets
+2021-01-27,Other,59.0,Gift for friend
+2021-01-28,Entertainment,76.41,Streaming subscription
+2021-01-29,Entertainment,77.22,Books
+2021-01-30,Utilities,294.28,Water bill
+2021-01-31,Transport,17.47,Uber ride
+2021-02-01,Transport,60.75,Gas
+2021-02-02,Utilities,159.75,Water bill
+2021-02-03,Entertainment,33.18,Concert tickets
+2021-02-04,Utilities,233.63,Water bill
+2021-02-05,Other,11.61,Personal care items
+2021-02-06,Food,48.16,Restaurant dinner
+2021-02-07,Entertainment,40.21,Books
+2021-02-08,Other,176.76,Gift for friend
+2021-02-09,Food,64.54,Restaurant dinner
+2021-02-10,Other,34.49,Gift for friend
+2021-02-11,Other,137.81,Office supplies
+2021-02-12,Entertainment,11.92,Books
+2021-02-13,Utilities,164.98,Internet bill
+2021-02-14,Food,20.08,Coffee and snacks
+2021-02-15,Entertainment,51.97,Books
+2021-02-16,Transport,21.17,Uber ride
+2021-02-17,Food,27.33,Restaurant dinner
+2021-02-18,Utilities,275.58,Phone bill
+2021-02-19,Food,24.28,Coffee and snacks
+2021-02-20,Other,74.28,Home decor
+2021-02-21,Utilities,59.44,Internet bill
+2021-02-22,Entertainment,67.16,Concert tickets
+2021-02-23,Utilities,219.03,Electricity bill
+2021-02-24,Utilities,162.09,Gas bill
+2021-02-25,Other,68.25,Clothing purchase
+2021-02-26,Transport,18.17,Parking fees
+2021-02-27,Other,93.43,Clothing purchase
+2021-02-28,Other,188.62,Home decor
+2021-03-01,Transport,76.75,Car maintenance
+2021-03-02,Food,91.22,Takeout lunch
+2021-03-03,Utilities,53.64,Electricity bill
+2021-03-04,Entertainment,108.47,Books
+2021-03-05,Other,14.53,Clothing purchase
+2021-03-06,Entertainment,43.65,Streaming subscription
+2021-03-07,Other,74.67,Gift for friend
+2021-03-08,Food,70.35,Restaurant dinner
+2021-03-09,Food,16.83,Restaurant dinner
+2021-03-10,Entertainment,72.9,Concert tickets
+2021-03-11,Utilities,260.39,Phone bill
+2021-03-12,Utilities,194.86,Phone bill
+2021-03-13,Transport,18.33,Parking fees
+2021-03-14,Food,59.78,Coffee and snacks
+2021-03-15,Utilities,263.02,Internet bill
+2021-03-16,Entertainment,26.37,Streaming subscription
+2021-03-17,Utilities,245.26,Internet bill
+2021-03-18,Transport,77.87,Parking fees
+2021-03-19,Transport,9.23,Public transport pass
+2021-03-20,Other,124.49,Gift for friend
+2021-03-21,Other,107.71,Gift for friend
+2021-03-22,Transport,11.34,Gas
+2021-03-23,Other,136.07,Clothing purchase
+2021-03-24,Other,24.63,Clothing purchase
+2021-03-25,Entertainment,137.61,Movie tickets
+2021-03-26,Entertainment,140.83,Books
+2021-03-27,Other,103.44,Clothing purchase
+2021-03-28,Food,57.17,Restaurant dinner
+2021-03-29,Entertainment,17.78,Video games
+2021-03-30,Other,38.53,Home decor
+2021-03-31,Entertainment,60.97,Concert tickets
+2021-04-01,Transport,16.83,Parking fees
+2021-04-02,Utilities,298.6,Electricity bill
+2021-04-03,Transport,27.41,Parking fees
+2021-04-04,Other,135.3,Office supplies
+2021-04-05,Entertainment,10.57,Streaming subscription
+2021-04-06,Other,132.87,Home decor
+2021-04-07,Other,144.02,Clothing purchase
+2021-04-08,Other,100.78,Personal care items
+2021-04-09,Other,138.68,Personal care items
+2021-04-10,Entertainment,40.86,Books
+2021-04-11,Transport,10.97,Gas
+2021-04-12,Other,32.69,Personal care items
+2021-04-13,Utilities,183.86,Internet bill
+2021-04-14,Utilities,266.59,Internet bill
+2021-04-15,Food,79.23,Restaurant dinner
+2021-04-16,Other,74.93,Personal care items
+2021-04-17,Entertainment,109.65,Books
+2021-04-18,Transport,73.32,Uber ride
+2021-04-19,Other,171.85,Personal care items
+2021-04-20,Utilities,270.43,Internet bill
+2021-04-21,Food,86.99,Farmers market
+2021-04-22,Utilities,77.39,Electricity bill
+2021-04-23,Transport,78.5,Car maintenance
+2021-04-24,Transport,11.37,Car maintenance
+2021-04-25,Entertainment,30.69,Video games
+2021-04-26,Utilities,88.15,Water bill
+2021-04-27,Other,143.51,Gift for friend
+2021-04-28,Transport,20.89,Public transport pass
+2021-04-29,Transport,13.64,Gas
+2021-04-30,Food,94.15,Takeout lunch
+2021-05-01,Entertainment,141.57,Concert tickets
+2021-05-02,Food,98.54,Restaurant dinner
+2021-05-03,Transport,62.4,Gas
+2021-05-04,Transport,78.8,Public transport pass
+2021-05-05,Other,14.48,Office supplies
+2021-05-06,Other,135.09,Home decor
+2021-05-07,Utilities,77.67,Internet bill
+2021-05-08,Entertainment,118.45,Concert tickets
+2021-05-09,Entertainment,44.06,Concert tickets
+2021-05-10,Transport,61.55,Public transport pass
+2021-05-11,Transport,22.25,Gas
+2021-05-12,Transport,72.63,Gas
+2021-05-13,Other,94.4,Home decor
+2021-05-14,Transport,70.45,Car maintenance
+2021-05-15,Food,46.05,Farmers market
+2021-05-16,Utilities,290.98,Gas bill
+2021-05-17,Entertainment,53.22,Streaming subscription
+2021-05-18,Utilities,258.37,Gas bill
+2021-05-19,Food,68.17,Restaurant dinner
+2021-05-20,Utilities,158.55,Electricity bill
+2021-05-21,Food,44.35,Takeout lunch
+2021-05-22,Entertainment,144.73,Books
+2021-05-23,Transport,12.32,Uber ride
+2021-05-24,Utilities,293.67,Internet bill
+2021-05-25,Utilities,279.85,Phone bill
+2021-05-26,Transport,43.83,Public transport pass
+2021-05-27,Entertainment,37.66,Movie tickets
+2021-05-28,Utilities,271.49,Gas bill
+2021-05-29,Transport,31.95,Gas
+2021-05-30,Transport,62.24,Car maintenance
+2021-05-31,Food,39.36,Takeout lunch
+2021-06-01,Food,30.2,Takeout lunch
+2021-06-02,Other,167.64,Personal care items
+2021-06-03,Other,91.82,Personal care items
+2021-06-04,Utilities,236.86,Phone bill
+2021-06-05,Food,53.31,Farmers market
+2021-06-06,Transport,55.05,Uber ride
+2021-06-07,Entertainment,69.08,Movie tickets
+2021-06-08,Other,193.75,Clothing purchase
+2021-06-09,Other,68.33,Personal care items
+2021-06-10,Utilities,247.91,Internet bill
+2021-06-11,Other,66.58,Gift for friend
+2021-06-12,Utilities,197.16,Internet bill
+2021-06-13,Transport,7.2,Uber ride
+2021-06-14,Food,82.48,Restaurant dinner
+2021-06-15,Utilities,261.29,Phone bill
+2021-06-16,Other,31.78,Home decor
+2021-06-17,Transport,46.32,Public transport pass
+2021-06-18,Utilities,245.85,Water bill
+2021-06-19,Transport,58.46,Gas
+2021-06-20,Transport,77.47,Public transport pass
+2021-06-21,Entertainment,108.66,Movie tickets
+2021-06-22,Entertainment,68.53,Books
+2021-06-23,Transport,58.93,Uber ride
+2021-06-24,Utilities,278.8,Gas bill
+2021-06-25,Food,99.05,Takeout lunch
+2021-06-26,Other,179.16,Office supplies
+2021-06-27,Food,75.66,Grocery shopping
+2021-06-28,Entertainment,79.42,Concert tickets
+2021-06-29,Other,121.79,Home decor
+2021-06-30,Utilities,249.59,Internet bill
+2021-07-01,Food,45.28,Takeout lunch
+2021-07-02,Transport,10.82,Car maintenance
+2021-07-03,Food,62.25,Coffee and snacks
+2021-07-04,Utilities,147.45,Electricity bill
+2021-07-05,Food,79.49,Coffee and snacks
+2021-07-06,Other,120.27,Office supplies
+2021-07-07,Utilities,288.49,Phone bill
+2021-07-08,Entertainment,33.47,Movie tickets
+2021-07-09,Utilities,231.77,Gas bill
+2021-07-10,Other,129.72,Office supplies
+2021-07-11,Other,29.8,Gift for friend
+2021-07-12,Transport,58.57,Parking fees
+2021-07-13,Entertainment,53.64,Movie tickets
+2021-07-14,Food,33.81,Farmers market
+2021-07-15,Transport,64.6,Gas
+2021-07-16,Other,57.93,Clothing purchase
+2021-07-17,Utilities,254.26,Electricity bill
+2021-07-18,Food,74.75,Farmers market
+2021-07-19,Transport,7.6,Car maintenance
+2021-07-20,Transport,5.97,Gas
+2021-07-21,Utilities,211.03,Electricity bill
+2021-07-22,Other,97.99,Clothing purchase
+2021-07-23,Other,117.6,Personal care items
+2021-07-24,Utilities,104.33,Phone bill
+2021-07-25,Utilities,112.89,Electricity bill
+2021-07-26,Entertainment,94.5,Books
+2021-07-27,Food,54.89,Restaurant dinner
+2021-07-28,Entertainment,85.13,Streaming subscription
+2021-07-29,Entertainment,72.79,Video games
+2021-07-30,Other,50.88,Clothing purchase
+2021-07-31,Utilities,266.37,Water bill
+2021-08-01,Food,99.65,Restaurant dinner
+2021-08-02,Other,168.35,Office supplies
+2021-08-03,Food,52.55,Grocery shopping
+2021-08-04,Entertainment,24.57,Video games
+2021-08-05,Other,109.61,Clothing purchase
+2021-08-06,Transport,48.32,Uber ride
+2021-08-07,Other,152.74,Office supplies
+2021-08-08,Entertainment,119.11,Video games
+2021-08-09,Other,88.94,Office supplies
+2021-08-10,Other,18.36,Office supplies
+2021-08-11,Other,137.58,Personal care items
+2021-08-12,Utilities,87.5,Water bill
+2021-08-13,Entertainment,54.36,Video games
+2021-08-14,Transport,53.94,Parking fees
+2021-08-15,Entertainment,71.37,Concert tickets
+2021-08-16,Entertainment,122.4,Movie tickets
+2021-08-17,Entertainment,45.84,Concert tickets
+2021-08-18,Transport,42.93,Car maintenance
+2021-08-19,Other,74.23,Personal care items
+2021-08-20,Utilities,165.82,Phone bill
+2021-08-21,Food,39.81,Coffee and snacks
+2021-08-22,Food,79.02,Farmers market
+2021-08-23,Utilities,191.75,Electricity bill
+2021-08-24,Transport,21.7,Parking fees
+2021-08-25,Other,175.48,Personal care items
+2021-08-26,Utilities,138.74,Water bill
+2021-08-27,Entertainment,62.89,Books
+2021-08-28,Transport,47.89,Uber ride
+2021-08-29,Utilities,108.25,Electricity bill
+2021-08-30,Entertainment,19.17,Video games
+2021-08-31,Utilities,206.87,Electricity bill
+2021-09-01,Entertainment,36.76,Concert tickets
+2021-09-02,Utilities,229.01,Internet bill
+2021-09-03,Food,45.52,Grocery shopping
+2021-09-04,Transport,8.05,Uber ride
+2021-09-05,Entertainment,55.81,Movie tickets
+2021-09-06,Utilities,57.9,Electricity bill
+2021-09-07,Transport,22.27,Public transport pass
+2021-09-08,Utilities,133.05,Phone bill
+2021-09-09,Entertainment,120.39,Movie tickets
+2021-09-10,Utilities,273.64,Internet bill
+2021-09-11,Other,125.94,Personal care items
+2021-09-12,Other,75.84,Gift for friend
+2021-09-13,Transport,44.44,Gas
+2021-09-14,Utilities,255.66,Electricity bill
+2021-09-15,Utilities,159.4,Gas bill
+2021-09-16,Other,70.2,Office supplies
+2021-09-17,Utilities,89.08,Electricity bill
+2021-09-18,Utilities,59.08,Gas bill
+2021-09-19,Transport,66.01,Public transport pass
+2021-09-20,Utilities,104.88,Electricity bill
+2021-09-21,Transport,6.31,Public transport pass
+2021-09-22,Food,34.08,Takeout lunch
+2021-09-23,Food,34.51,Takeout lunch
+2021-09-24,Other,38.59,Home decor
+2021-09-25,Transport,15.29,Uber ride
+2021-09-26,Utilities,231.37,Water bill
+2021-09-27,Transport,73.58,Car maintenance
+2021-09-28,Entertainment,22.51,Streaming subscription
+2021-09-29,Food,59.76,Restaurant dinner
+2021-09-30,Utilities,182.95,Internet bill
+2021-10-01,Food,27.55,Takeout lunch
+2021-10-02,Entertainment,120.4,Video games
+2021-10-03,Other,150.84,Office supplies
+2021-10-04,Other,72.63,Gift for friend
+2021-10-05,Food,44.53,Grocery shopping
+2021-10-06,Food,35.7,Farmers market
+2021-10-07,Utilities,68.6,Water bill
+2021-10-08,Utilities,181.54,Water bill
+2021-10-09,Transport,51.72,Car maintenance
+2021-10-10,Transport,63.89,Public transport pass
+2021-10-11,Utilities,288.09,Phone bill
+2021-10-12,Food,86.25,Restaurant dinner
+2021-10-13,Transport,60.94,Car maintenance
+2021-10-14,Food,47.81,Grocery shopping
+2021-10-15,Transport,9.5,Public transport pass
+2021-10-16,Entertainment,94.09,Video games
+2021-10-17,Food,28.15,Restaurant dinner
+2021-10-18,Utilities,134.92,Water bill
+2021-10-19,Transport,10.53,Car maintenance
+2021-10-20,Other,123.68,Clothing purchase
+2021-10-21,Food,34.45,Takeout lunch
+2021-10-22,Other,22.87,Office supplies
+2021-10-23,Food,88.93,Restaurant dinner
+2021-10-24,Transport,66.13,Uber ride
+2021-10-25,Entertainment,141.52,Concert tickets
+2021-10-26,Utilities,226.77,Phone bill
+2021-10-27,Food,89.44,Grocery shopping
+2021-10-28,Other,186.88,Personal care items
+2021-10-29,Food,26.75,Takeout lunch
+2021-10-30,Entertainment,36.91,Concert tickets
+2021-10-31,Food,26.63,Grocery shopping
+2021-11-01,Food,32.6,Restaurant dinner
+2021-11-02,Food,44.28,Grocery shopping
+2021-11-03,Other,95.25,Gift for friend
+2021-11-04,Entertainment,130.39,Books
+2021-11-05,Other,97.95,Office supplies
+2021-11-06,Entertainment,47.23,Books
+2021-11-07,Utilities,80.62,Phone bill
+2021-11-08,Other,158.07,Office supplies
+2021-11-09,Transport,21.95,Car maintenance
+2021-11-10,Other,64.54,Clothing purchase
+2021-11-11,Utilities,93.72,Electricity bill
+2021-11-12,Transport,77.67,Gas
+2021-11-13,Utilities,295.85,Phone bill
+2021-11-14,Other,136.72,Gift for friend
+2021-11-15,Entertainment,119.99,Concert tickets
+2021-11-16,Transport,32.7,Uber ride
+2021-11-17,Utilities,111.5,Water bill
+2021-11-18,Transport,30.77,Parking fees
+2021-11-19,Transport,35.56,Parking fees
+2021-11-20,Transport,10.86,Uber ride
+2021-11-21,Entertainment,46.21,Movie tickets
+2021-11-22,Entertainment,86.29,Streaming subscription
+2021-11-23,Entertainment,78.16,Video games
+2021-11-24,Entertainment,86.19,Movie tickets
+2021-11-25,Transport,6.12,Uber ride
+2021-11-26,Utilities,220.03,Electricity bill
+2021-11-27,Entertainment,73.04,Video games
+2021-11-28,Transport,65.88,Parking fees
+2021-11-29,Entertainment,45.17,Streaming subscription
+2021-11-30,Utilities,272.23,Phone bill
+2021-12-01,Transport,9.83,Car maintenance
+2021-12-02,Other,24.43,Personal care items
+2021-12-03,Other,156.93,Clothing purchase
+2021-12-04,Food,69.17,Restaurant dinner
+2021-12-05,Other,32.35,Gift for friend
+2021-12-06,Food,25.13,Farmers market
+2021-12-07,Food,52.11,Takeout lunch
+2021-12-08,Other,116.81,Personal care items
+2021-12-09,Food,11.48,Coffee and snacks
+2021-12-10,Utilities,95.67,Internet bill
+2021-12-11,Entertainment,27.16,Movie tickets
+2021-12-12,Food,68.67,Farmers market
+2021-12-13,Utilities,260.09,Gas bill
+2021-12-14,Other,120.79,Home decor
+2021-12-15,Transport,8.41,Gas
+2021-12-16,Utilities,207.56,Internet bill
+2021-12-17,Other,117.2,Home decor
+2021-12-18,Utilities,212.0,Gas bill
+2021-12-19,Utilities,181.11,Water bill
+2021-12-20,Other,52.03,Gift for friend
+2021-12-21,Other,192.81,Clothing purchase
+2021-12-22,Other,59.6,Personal care items
+2021-12-23,Utilities,212.57,Water bill
+2021-12-24,Other,184.77,Home decor
+2021-12-25,Other,73.45,Gift for friend
+2021-12-26,Food,62.26,Takeout lunch
+2021-12-27,Entertainment,65.35,Books
+2021-12-28,Transport,18.3,Public transport pass
+2021-12-29,Other,168.5,Personal care items
+2021-12-30,Utilities,67.24,Water bill
+2021-12-31,Entertainment,149.86,Concert tickets
+2022-01-01,Entertainment,115.23,Books
+2022-01-02,Other,67.72,Office supplies
+2022-01-03,Entertainment,122.91,Video games
+2022-01-04,Utilities,162.46,Internet bill
+2022-01-05,Utilities,149.6,Internet bill
+2022-01-06,Transport,73.36,Car maintenance
+2022-01-07,Other,85.9,Personal care items
+2022-01-08,Other,77.31,Home decor
+2022-01-09,Other,100.16,Home decor
+2022-01-10,Food,78.54,Farmers market
+2022-01-11,Other,6.23,Office supplies
+2022-01-12,Food,55.53,Coffee and snacks
+2022-01-13,Entertainment,28.14,Movie tickets
+2022-01-14,Utilities,285.18,Phone bill
+2022-01-15,Transport,20.19,Parking fees
+2022-01-16,Food,40.34,Restaurant dinner
+2022-01-17,Transport,69.11,Uber ride
+2022-01-18,Utilities,253.35,Gas bill
+2022-01-19,Transport,59.01,Gas
+2022-01-20,Transport,27.21,Public transport pass
+2022-01-21,Utilities,138.17,Electricity bill
+2022-01-22,Entertainment,144.99,Streaming subscription
+2022-01-23,Food,88.23,Coffee and snacks
+2022-01-24,Transport,16.25,Parking fees
+2022-01-25,Food,76.56,Farmers market
+2022-01-26,Food,32.05,Farmers market
+2022-01-27,Food,39.37,Coffee and snacks
+2022-01-28,Other,176.39,Office supplies
+2022-01-29,Utilities,93.37,Electricity bill
+2022-01-30,Entertainment,124.6,Concert tickets
+2022-01-31,Other,39.75,Gift for friend
+2022-02-01,Transport,29.04,Gas
+2022-02-02,Other,51.07,Clothing purchase
+2022-02-03,Other,110.66,Clothing purchase
+2022-02-04,Food,91.93,Coffee and snacks
+2022-02-05,Utilities,237.76,Phone bill
+2022-02-06,Entertainment,90.22,Books
+2022-02-07,Utilities,83.53,Internet bill
+2022-02-08,Transport,64.59,Car maintenance
+2022-02-09,Utilities,62.36,Phone bill
+2022-02-10,Utilities,236.21,Phone bill
+2022-02-11,Utilities,107.6,Internet bill
+2022-02-12,Other,168.95,Home decor
+2022-02-13,Entertainment,127.46,Video games
+2022-02-14,Food,19.83,Restaurant dinner
+2022-02-15,Entertainment,78.93,Video games
+2022-02-16,Transport,64.44,Public transport pass
+2022-02-17,Food,25.71,Grocery shopping
+2022-02-18,Utilities,139.13,Phone bill
+2022-02-19,Entertainment,73.1,Video games
+2022-02-20,Entertainment,149.17,Books
+2022-02-21,Utilities,61.73,Phone bill
+2022-02-22,Other,39.66,Personal care items
+2022-02-23,Other,187.99,Gift for friend
+2022-02-24,Other,113.49,Gift for friend
+2022-02-25,Other,61.22,Gift for friend
+2022-02-26,Transport,10.53,Gas
+2022-02-27,Entertainment,84.76,Books
+2022-02-28,Entertainment,101.53,Streaming subscription
+2022-03-01,Other,186.91,Home decor
+2022-03-02,Transport,35.38,Parking fees
+2022-03-03,Other,176.18,Clothing purchase
+2022-03-04,Transport,32.96,Parking fees
+2022-03-05,Other,13.13,Personal care items
+2022-03-06,Utilities,103.45,Gas bill
+2022-03-07,Food,65.94,Grocery shopping
+2022-03-08,Other,94.63,Gift for friend
+2022-03-09,Utilities,146.0,Phone bill
+2022-03-10,Entertainment,138.17,Streaming subscription
+2022-03-11,Transport,73.95,Parking fees
+2022-03-12,Food,61.38,Coffee and snacks
+2022-03-13,Food,13.74,Farmers market
+2022-03-14,Transport,41.61,Uber ride
+2022-03-15,Food,80.88,Takeout lunch
+2022-03-16,Entertainment,131.3,Video games
+2022-03-17,Utilities,186.44,Phone bill
+2022-03-18,Food,61.37,Farmers market
+2022-03-19,Other,99.99,Gift for friend
+2022-03-20,Food,79.69,Restaurant dinner
+2022-03-21,Utilities,51.72,Gas bill
+2022-03-22,Transport,45.13,Uber ride
+2022-03-23,Other,133.02,Home decor
+2022-03-24,Entertainment,130.19,Concert tickets
+2022-03-25,Food,67.5,Farmers market
+2022-03-26,Food,91.81,Farmers market
+2022-03-27,Food,18.3,Restaurant dinner
+2022-03-28,Entertainment,33.67,Concert tickets
+2022-03-29,Entertainment,96.69,Video games
+2022-03-30,Utilities,127.14,Internet bill
+2022-03-31,Transport,51.26,Public transport pass
+2022-04-01,Transport,71.69,Gas
+2022-04-02,Utilities,128.95,Electricity bill
+2022-04-03,Entertainment,87.81,Video games
+2022-04-04,Other,124.73,Home decor
+2022-04-05,Utilities,161.04,Internet bill
+2022-04-06,Utilities,278.52,Gas bill
+2022-04-07,Transport,65.85,Uber ride
+2022-04-08,Entertainment,91.5,Streaming subscription
+2022-04-09,Transport,38.03,Parking fees
+2022-04-10,Food,24.24,Restaurant dinner
+2022-04-11,Utilities,212.91,Phone bill
+2022-04-12,Other,121.66,Gift for friend
+2022-04-13,Food,57.81,Farmers market
+2022-04-14,Entertainment,73.02,Video games
+2022-04-15,Transport,47.48,Gas
+2022-04-16,Other,45.73,Gift for friend
+2022-04-17,Transport,45.59,Uber ride
+2022-04-18,Other,149.03,Home decor
+2022-04-19,Other,177.9,Personal care items
+2022-04-20,Entertainment,10.49,Streaming subscription
+2022-04-21,Transport,62.94,Car maintenance
+2022-04-22,Entertainment,58.33,Books
+2022-04-23,Transport,76.45,Parking fees
+2022-04-24,Other,122.07,Office supplies
+2022-04-25,Entertainment,83.83,Concert tickets
+2022-04-26,Entertainment,18.8,Concert tickets
+2022-04-27,Utilities,165.9,Water bill
+2022-04-28,Food,48.24,Takeout lunch
+2022-04-29,Transport,30.11,Public transport pass
+2022-04-30,Food,59.69,Farmers market
+2022-05-01,Utilities,77.91,Internet bill
+2022-05-02,Other,166.0,Gift for friend
+2022-05-03,Entertainment,79.45,Books
+2022-05-04,Transport,57.85,Gas
+2022-05-05,Other,158.6,Office supplies
+2022-05-06,Transport,65.13,Parking fees
+2022-05-07,Food,59.31,Coffee and snacks
+2022-05-08,Utilities,202.44,Phone bill
+2022-05-09,Food,49.7,Grocery shopping
+2022-05-10,Other,92.6,Clothing purchase
+2022-05-11,Utilities,114.09,Electricity bill
+2022-05-12,Other,174.74,Gift for friend
+2022-05-13,Food,76.71,Takeout lunch
+2022-05-14,Food,36.33,Coffee and snacks
+2022-05-15,Transport,5.95,Gas
+2022-05-16,Entertainment,122.54,Movie tickets
+2022-05-17,Food,44.06,Farmers market
+2022-05-18,Transport,68.74,Public transport pass
+2022-05-19,Food,48.69,Takeout lunch
+2022-05-20,Entertainment,93.36,Video games
+2022-05-21,Entertainment,45.48,Concert tickets
+2022-05-22,Utilities,286.39,Water bill
+2022-05-23,Utilities,212.22,Gas bill
+2022-05-24,Utilities,236.4,Internet bill
+2022-05-25,Utilities,120.6,Electricity bill
+2022-05-26,Entertainment,93.78,Books
+2022-05-27,Entertainment,17.06,Movie tickets
+2022-05-28,Food,29.7,Takeout lunch
+2022-05-29,Food,97.99,Farmers market
+2022-05-30,Food,37.81,Takeout lunch
+2022-05-31,Utilities,190.53,Internet bill
+2022-06-01,Other,75.31,Gift for friend
+2022-06-02,Entertainment,72.29,Concert tickets
+2022-06-03,Other,130.5,Office supplies
+2022-06-04,Entertainment,89.96,Streaming subscription
+2022-06-05,Food,91.73,Coffee and snacks
+2022-06-06,Entertainment,148.82,Video games
+2022-06-07,Entertainment,38.74,Movie tickets
+2022-06-08,Utilities,212.11,Gas bill
+2022-06-09,Other,160.03,Clothing purchase
+2022-06-10,Entertainment,22.08,Streaming subscription
+2022-06-11,Other,100.28,Gift for friend
+2022-06-12,Food,57.44,Takeout lunch
+2022-06-13,Transport,44.9,Gas
+2022-06-14,Utilities,281.2,Gas bill
+2022-06-15,Food,30.6,Coffee and snacks
+2022-06-16,Transport,55.86,Gas
+2022-06-17,Transport,51.01,Parking fees
+2022-06-18,Food,77.47,Restaurant dinner
+2022-06-19,Food,85.46,Grocery shopping
+2022-06-20,Other,56.71,Office supplies
+2022-06-21,Other,105.07,Personal care items
+2022-06-22,Transport,62.11,Public transport pass
+2022-06-23,Food,80.58,Takeout lunch
+2022-06-24,Food,44.45,Grocery shopping
+2022-06-25,Utilities,98.14,Water bill
+2022-06-26,Entertainment,89.88,Video games
+2022-06-27,Other,126.94,Personal care items
+2022-06-28,Entertainment,91.87,Video games
+2022-06-29,Transport,20.47,Uber ride
+2022-06-30,Entertainment,43.1,Books
+2022-07-01,Food,82.14,Coffee and snacks
+2022-07-02,Utilities,83.64,Electricity bill
+2022-07-03,Other,128.37,Clothing purchase
+2022-07-04,Other,83.61,Clothing purchase
+2022-07-05,Other,99.47,Gift for friend
+2022-07-06,Other,183.41,Clothing purchase
+2022-07-07,Entertainment,142.78,Movie tickets
+2022-07-08,Other,164.54,Personal care items
+2022-07-09,Utilities,240.82,Gas bill
+2022-07-10,Other,73.7,Home decor
+2022-07-11,Transport,32.17,Public transport pass
+2022-07-12,Food,13.55,Farmers market
+2022-07-13,Other,110.99,Personal care items
+2022-07-14,Food,40.75,Takeout lunch
+2022-07-15,Utilities,257.5,Water bill
+2022-07-16,Utilities,284.49,Internet bill
+2022-07-17,Food,93.12,Grocery shopping
+2022-07-18,Transport,38.44,Car maintenance
+2022-07-19,Transport,40.21,Gas
+2022-07-20,Utilities,165.57,Electricity bill
+2022-07-21,Utilities,281.46,Water bill
+2022-07-22,Utilities,155.33,Phone bill
+2022-07-23,Utilities,239.2,Phone bill
+2022-07-24,Utilities,256.21,Water bill
+2022-07-25,Transport,50.74,Uber ride
+2022-07-26,Transport,6.14,Uber ride
+2022-07-27,Entertainment,141.79,Books
+2022-07-28,Other,51.61,Office supplies
+2022-07-29,Food,44.97,Takeout lunch
+2022-07-30,Utilities,162.94,Electricity bill
+2022-07-31,Entertainment,88.75,Books
+2022-08-01,Utilities,59.51,Phone bill
+2022-08-02,Other,88.57,Clothing purchase
+2022-08-03,Utilities,61.26,Gas bill
+2022-08-04,Utilities,172.43,Electricity bill
+2022-08-05,Utilities,226.97,Water bill
+2022-08-06,Food,91.68,Takeout lunch
+2022-08-07,Transport,54.54,Public transport pass
+2022-08-08,Transport,13.76,Car maintenance
+2022-08-09,Entertainment,43.93,Concert tickets
+2022-08-10,Food,99.18,Coffee and snacks
+2022-08-11,Food,21.08,Coffee and snacks
+2022-08-12,Entertainment,138.07,Concert tickets
+2022-08-13,Food,61.57,Grocery shopping
+2022-08-14,Utilities,200.94,Electricity bill
+2022-08-15,Transport,66.7,Parking fees
+2022-08-16,Entertainment,149.42,Video games
+2022-08-17,Entertainment,139.01,Books
+2022-08-18,Other,130.54,Home decor
+2022-08-19,Food,69.85,Coffee and snacks
+2022-08-20,Other,190.48,Clothing purchase
+2022-08-21,Utilities,138.97,Gas bill
+2022-08-22,Food,60.62,Restaurant dinner
+2022-08-23,Other,41.7,Clothing purchase
+2022-08-24,Transport,35.79,Public transport pass
+2022-08-25,Transport,25.24,Uber ride
+2022-08-26,Food,73.59,Grocery shopping
+2022-08-27,Utilities,220.96,Water bill
+2022-08-28,Utilities,142.81,Water bill
+2022-08-29,Utilities,289.64,Phone bill
+2022-08-30,Utilities,162.93,Phone bill
+2022-08-31,Other,87.5,Home decor
+2022-09-01,Food,79.36,Restaurant dinner
+2022-09-02,Utilities,214.0,Electricity bill
+2022-09-03,Entertainment,85.51,Books
+2022-09-04,Other,151.76,Clothing purchase
+2022-09-05,Transport,51.68,Uber ride
+2022-09-06,Entertainment,20.65,Movie tickets
+2022-09-07,Food,54.63,Farmers market
+2022-09-08,Food,59.9,Coffee and snacks
+2022-09-09,Transport,79.79,Public transport pass
+2022-09-10,Utilities,167.19,Internet bill
+2022-09-11,Utilities,280.15,Internet bill
+2022-09-12,Transport,34.69,Parking fees
+2022-09-13,Food,83.42,Farmers market
+2022-09-14,Entertainment,11.22,Video games
+2022-09-15,Transport,26.31,Car maintenance
+2022-09-16,Entertainment,23.06,Concert tickets
+2022-09-17,Other,180.58,Personal care items
+2022-09-18,Other,92.33,Home decor
+2022-09-19,Transport,55.67,Car maintenance
+2022-09-20,Utilities,108.9,Electricity bill
+2022-09-21,Transport,72.21,Gas
+2022-09-22,Transport,73.11,Uber ride
+2022-09-23,Utilities,252.76,Electricity bill
+2022-09-24,Utilities,212.81,Electricity bill
+2022-09-25,Food,64.57,Farmers market
+2022-09-26,Transport,26.03,Car maintenance
+2022-09-27,Transport,40.49,Gas
+2022-09-28,Food,23.24,Takeout lunch
+2022-09-29,Entertainment,20.99,Concert tickets
+2022-09-30,Other,25.05,Personal care items
+2022-10-01,Food,76.9,Farmers market
+2022-10-02,Entertainment,110.52,Movie tickets
+2022-10-03,Transport,66.4,Uber ride
+2022-10-04,Other,79.07,Gift for friend
+2022-10-05,Food,29.71,Takeout lunch
+2022-10-06,Transport,6.6,Parking fees
+2022-10-07,Food,85.57,Takeout lunch
+2022-10-08,Transport,39.26,Public transport pass
+2022-10-09,Food,22.68,Farmers market
+2022-10-10,Entertainment,87.4,Video games
+2022-10-11,Entertainment,77.61,Streaming subscription
+2022-10-12,Food,19.15,Farmers market
+2022-10-13,Food,62.08,Takeout lunch
+2022-10-14,Utilities,222.4,Electricity bill
+2022-10-15,Transport,36.48,Car maintenance
+2022-10-16,Utilities,147.56,Gas bill
+2022-10-17,Other,32.93,Personal care items
+2022-10-18,Food,85.29,Takeout lunch
+2022-10-19,Transport,10.53,Parking fees
+2022-10-20,Transport,58.0,Uber ride
+2022-10-21,Food,43.33,Grocery shopping
+2022-10-22,Other,35.05,Office supplies
+2022-10-23,Transport,10.27,Gas
+2022-10-24,Food,73.84,Farmers market
+2022-10-25,Entertainment,54.16,Movie tickets
+2022-10-26,Utilities,254.47,Water bill
+2022-10-27,Entertainment,19.14,Video games
+2022-10-28,Transport,78.63,Uber ride
+2022-10-29,Utilities,249.04,Gas bill
+2022-10-30,Transport,52.86,Car maintenance
+2022-10-31,Food,48.25,Takeout lunch
+2022-11-01,Food,22.45,Takeout lunch
+2022-11-02,Food,80.56,Coffee and snacks
+2022-11-03,Other,173.79,Personal care items
+2022-11-04,Other,81.67,Clothing purchase
+2022-11-05,Utilities,62.6,Gas bill
+2022-11-06,Entertainment,118.67,Books
+2022-11-07,Utilities,218.63,Internet bill
+2022-11-08,Entertainment,47.37,Movie tickets
+2022-11-09,Food,18.22,Grocery shopping
+2022-11-10,Utilities,206.07,Gas bill
+2022-11-11,Other,142.13,Home decor
+2022-11-12,Utilities,99.72,Electricity bill
+2022-11-13,Transport,11.47,Parking fees
+2022-11-14,Entertainment,42.24,Concert tickets
+2022-11-15,Other,135.97,Personal care items
+2022-11-16,Entertainment,103.85,Streaming subscription
+2022-11-17,Transport,71.84,Car maintenance
+2022-11-18,Entertainment,135.73,Movie tickets
+2022-11-19,Other,130.2,Personal care items
+2022-11-20,Utilities,280.09,Water bill
+2022-11-21,Transport,13.12,Public transport pass
+2022-11-22,Food,64.26,Farmers market
+2022-11-23,Utilities,219.08,Electricity bill
+2022-11-24,Food,67.91,Coffee and snacks
+2022-11-25,Food,90.99,Coffee and snacks
+2022-11-26,Transport,41.13,Car maintenance
+2022-11-27,Entertainment,144.03,Concert tickets
+2022-11-28,Other,157.44,Office supplies
+2022-11-29,Utilities,55.33,Electricity bill
+2022-11-30,Entertainment,98.63,Concert tickets
+2022-12-01,Utilities,189.3,Phone bill
+2022-12-02,Food,26.1,Restaurant dinner
+2022-12-03,Transport,22.3,Gas
+2022-12-04,Entertainment,74.29,Video games
+2022-12-05,Utilities,126.72,Phone bill
+2022-12-06,Other,175.35,Clothing purchase
+2022-12-07,Entertainment,90.3,Streaming subscription
+2022-12-08,Entertainment,45.04,Books
+2022-12-09,Utilities,230.01,Water bill
+2022-12-10,Transport,34.64,Car maintenance
+2022-12-11,Entertainment,71.98,Concert tickets
+2022-12-12,Transport,39.39,Public transport pass
+2022-12-13,Entertainment,18.84,Books
+2022-12-14,Other,78.95,Home decor
+2022-12-15,Utilities,137.47,Water bill
+2022-12-16,Transport,44.72,Gas
+2022-12-17,Entertainment,11.02,Streaming subscription
+2022-12-18,Entertainment,16.84,Movie tickets
+2022-12-19,Utilities,61.52,Phone bill
+2022-12-20,Other,21.42,Gift for friend
+2022-12-21,Other,160.71,Office supplies
+2022-12-22,Other,5.57,Office supplies
+2022-12-23,Utilities,182.4,Gas bill
+2022-12-24,Transport,72.16,Car maintenance
+2022-12-25,Food,49.96,Grocery shopping
+2022-12-26,Other,182.49,Clothing purchase
+2022-12-27,Entertainment,15.06,Books
+2022-12-28,Utilities,238.0,Water bill
+2022-12-29,Entertainment,25.75,Movie tickets
+2022-12-30,Entertainment,149.51,Concert tickets
+2022-12-31,Utilities,295.85,Water bill
+2023-01-01,Entertainment,26.66,Movie tickets
+2023-01-02,Other,123.82,Home decor
+2023-01-03,Utilities,177.74,Water bill
+2023-01-04,Utilities,165.31,Internet bill
+2023-01-05,Utilities,160.73,Internet bill
+2023-01-06,Food,79.04,Grocery shopping
+2023-01-07,Transport,50.61,Parking fees
+2023-01-08,Food,70.59,Restaurant dinner
+2023-01-09,Transport,26.91,Public transport pass
+2023-01-10,Utilities,112.86,Electricity bill
+2023-01-11,Utilities,88.44,Phone bill
+2023-01-12,Food,47.24,Farmers market
+2023-01-13,Utilities,175.06,Electricity bill
+2023-01-14,Transport,8.82,Uber ride
+2023-01-15,Food,97.46,Takeout lunch
+2023-01-16,Food,33.08,Restaurant dinner
+2023-01-17,Transport,77.16,Public transport pass
+2023-01-18,Entertainment,45.55,Streaming subscription
+2023-01-19,Transport,36.65,Public transport pass
+2023-01-20,Food,53.34,Takeout lunch
+2023-01-21,Food,23.18,Restaurant dinner
+2023-01-22,Entertainment,127.35,Streaming subscription
+2023-01-23,Food,84.49,Farmers market
+2023-01-24,Transport,19.66,Gas
+2023-01-25,Food,32.45,Takeout lunch
+2023-01-26,Food,76.2,Takeout lunch
+2023-01-27,Utilities,117.77,Internet bill
+2023-01-28,Utilities,188.39,Gas bill
+2023-01-29,Transport,78.68,Car maintenance
+2023-01-30,Other,77.13,Office supplies
+2023-01-31,Food,69.59,Restaurant dinner
+2023-02-01,Food,65.34,Farmers market
+2023-02-02,Food,76.29,Grocery shopping
+2023-02-03,Other,46.18,Personal care items
+2023-02-04,Other,12.8,Personal care items
+2023-02-05,Utilities,131.7,Phone bill
+2023-02-06,Utilities,51.57,Water bill
+2023-02-07,Food,38.79,Takeout lunch
+2023-02-08,Utilities,123.05,Phone bill
+2023-02-09,Food,55.66,Takeout lunch
+2023-02-10,Other,111.24,Personal care items
+2023-02-11,Utilities,240.95,Gas bill
+2023-02-12,Entertainment,37.17,Video games
+2023-02-13,Other,59.95,Clothing purchase
+2023-02-14,Other,86.91,Clothing purchase
+2023-02-15,Transport,18.0,Car maintenance
+2023-02-16,Food,14.56,Grocery shopping
+2023-02-17,Entertainment,148.53,Concert tickets
+2023-02-18,Entertainment,93.12,Streaming subscription
+2023-02-19,Other,14.32,Gift for friend
+2023-02-20,Food,61.19,Takeout lunch
+2023-02-21,Food,17.52,Takeout lunch
+2023-02-22,Entertainment,130.34,Books
+2023-02-23,Food,10.36,Takeout lunch
+2023-02-24,Other,19.87,Office supplies
+2023-02-25,Utilities,207.28,Internet bill
+2023-02-26,Other,160.71,Clothing purchase
+2023-02-27,Entertainment,80.91,Movie tickets
+2023-02-28,Food,26.59,Farmers market
+2023-03-01,Food,50.41,Takeout lunch
+2023-03-02,Food,34.13,Takeout lunch
+2023-03-03,Food,45.82,Grocery shopping
+2023-03-04,Other,148.54,Personal care items
+2023-03-05,Transport,61.2,Car maintenance
+2023-03-06,Utilities,283.79,Internet bill
+2023-03-07,Other,21.8,Clothing purchase
+2023-03-08,Food,90.61,Takeout lunch
+2023-03-09,Other,86.18,Office supplies
+2023-03-10,Other,66.55,Gift for friend
+2023-03-11,Entertainment,51.17,Streaming subscription
+2023-03-12,Entertainment,71.83,Video games
+2023-03-13,Entertainment,19.34,Streaming subscription
+2023-03-14,Food,56.13,Grocery shopping
+2023-03-15,Other,59.58,Office supplies
+2023-03-16,Food,40.43,Restaurant dinner
+2023-03-17,Utilities,51.91,Electricity bill
+2023-03-18,Utilities,195.42,Internet bill
+2023-03-19,Transport,46.34,Gas
+2023-03-20,Transport,56.0,Gas
+2023-03-21,Food,37.01,Takeout lunch
+2023-03-22,Other,186.38,Gift for friend
+2023-03-23,Transport,66.62,Parking fees
+2023-03-24,Entertainment,98.47,Video games
+2023-03-25,Other,117.29,Home decor
+2023-03-26,Transport,74.66,Parking fees
+2023-03-27,Transport,68.36,Uber ride
+2023-03-28,Entertainment,35.43,Books
+2023-03-29,Food,22.67,Farmers market
+2023-03-30,Entertainment,15.39,Streaming subscription
+2023-03-31,Transport,14.46,Car maintenance
+2023-04-01,Utilities,146.68,Phone bill
+2023-04-02,Other,82.82,Personal care items
+2023-04-03,Food,18.13,Takeout lunch
+2023-04-04,Food,83.99,Farmers market
+2023-04-05,Entertainment,101.32,Streaming subscription
+2023-04-06,Food,81.74,Grocery shopping
+2023-04-07,Other,174.81,Personal care items
+2023-04-08,Other,174.67,Office supplies
+2023-04-09,Utilities,141.87,Phone bill
+2023-04-10,Entertainment,148.41,Concert tickets
+2023-04-11,Entertainment,16.54,Books
+2023-04-12,Transport,18.28,Gas
+2023-04-13,Other,67.06,Home decor
+2023-04-14,Other,121.71,Home decor
+2023-04-15,Food,30.86,Restaurant dinner
+2023-04-16,Food,53.21,Restaurant dinner
+2023-04-17,Utilities,131.31,Phone bill
+2023-04-18,Entertainment,34.2,Movie tickets
+2023-04-19,Food,77.06,Takeout lunch
+2023-04-20,Entertainment,101.2,Movie tickets
+2023-04-21,Utilities,182.85,Gas bill
+2023-04-22,Transport,76.42,Parking fees
+2023-04-23,Food,32.79,Restaurant dinner
+2023-04-24,Other,85.48,Personal care items
+2023-04-25,Utilities,204.99,Water bill
+2023-04-26,Entertainment,106.39,Concert tickets
+2023-04-27,Other,123.5,Personal care items
+2023-04-28,Other,20.94,Clothing purchase
+2023-04-29,Utilities,228.16,Phone bill
+2023-04-30,Entertainment,138.84,Streaming subscription
+2023-05-01,Entertainment,136.85,Video games
+2023-05-02,Utilities,254.65,Water bill
+2023-05-03,Other,154.35,Home decor
+2023-05-04,Utilities,198.61,Gas bill
+2023-05-05,Utilities,182.69,Internet bill
+2023-05-06,Food,88.72,Coffee and snacks
+2023-05-07,Food,39.47,Restaurant dinner
+2023-05-08,Entertainment,117.96,Concert tickets
+2023-05-09,Transport,76.69,Parking fees
+2023-05-10,Utilities,118.11,Electricity bill
+2023-05-11,Utilities,235.45,Gas bill
+2023-05-12,Transport,29.48,Parking fees
+2023-05-13,Food,63.51,Farmers market
+2023-05-14,Other,136.99,Clothing purchase
+2023-05-15,Entertainment,40.77,Video games
+2023-05-16,Other,120.24,Personal care items
+2023-05-17,Food,89.75,Restaurant dinner
+2023-05-18,Entertainment,76.79,Movie tickets
+2023-05-19,Food,21.49,Takeout lunch
+2023-05-20,Transport,16.34,Public transport pass
+2023-05-21,Transport,66.12,Uber ride
+2023-05-22,Food,11.32,Farmers market
+2023-05-23,Utilities,254.94,Electricity bill
+2023-05-24,Transport,49.1,Gas
+2023-05-25,Entertainment,11.72,Books
+2023-05-26,Transport,45.25,Car maintenance
+2023-05-27,Other,150.91,Gift for friend
+2023-05-28,Transport,47.56,Gas
+2023-05-29,Transport,10.74,Public transport pass
+2023-05-30,Other,124.67,Home decor
+2023-05-31,Other,105.26,Office supplies
+2023-06-01,Entertainment,89.21,Video games
+2023-06-02,Food,55.11,Takeout lunch
+2023-06-03,Transport,43.68,Gas
+2023-06-04,Other,122.44,Office supplies
+2023-06-05,Food,15.23,Restaurant dinner
+2023-06-06,Utilities,152.99,Internet bill
+2023-06-07,Food,22.97,Grocery shopping
+2023-06-08,Entertainment,123.94,Streaming subscription
+2023-06-09,Entertainment,143.82,Streaming subscription
+2023-06-10,Other,154.81,Personal care items
+2023-06-11,Other,21.93,Gift for friend
+2023-06-12,Other,71.33,Personal care items
+2023-06-13,Other,110.13,Personal care items
+2023-06-14,Entertainment,58.08,Books
+2023-06-15,Entertainment,85.35,Video games
+2023-06-16,Entertainment,112.92,Video games
+2023-06-17,Entertainment,51.07,Video games
+2023-06-18,Other,31.28,Clothing purchase
+2023-06-19,Other,15.86,Gift for friend
+2023-06-20,Other,117.25,Personal care items
+2023-06-21,Other,41.16,Personal care items
+2023-06-22,Food,67.65,Takeout lunch
+2023-06-23,Entertainment,149.16,Books
+2023-06-24,Utilities,148.98,Water bill
+2023-06-25,Transport,16.13,Public transport pass
+2023-06-26,Other,101.08,Personal care items
+2023-06-27,Other,170.36,Clothing purchase
+2023-06-28,Entertainment,84.65,Books
+2023-06-29,Entertainment,122.86,Video games
+2023-06-30,Entertainment,14.88,Streaming subscription
+2023-07-01,Other,60.71,Gift for friend
+2023-07-02,Other,97.15,Personal care items
+2023-07-03,Food,95.85,Grocery shopping
+2023-07-04,Other,12.07,Home decor
+2023-07-05,Entertainment,61.97,Video games
+2023-07-06,Transport,10.28,Public transport pass
+2023-07-07,Utilities,221.49,Gas bill
+2023-07-08,Utilities,279.34,Internet bill
+2023-07-09,Other,111.74,Office supplies
+2023-07-10,Entertainment,97.89,Streaming subscription
+2023-07-11,Other,25.85,Home decor
+2023-07-12,Transport,64.75,Parking fees
+2023-07-13,Entertainment,21.05,Video games
+2023-07-14,Entertainment,18.51,Movie tickets
+2023-07-15,Other,181.54,Personal care items
+2023-07-16,Utilities,59.28,Electricity bill
+2023-07-17,Utilities,161.11,Phone bill
+2023-07-18,Utilities,299.14,Phone bill
+2023-07-19,Entertainment,31.1,Books
+2023-07-20,Other,165.42,Clothing purchase
+2023-07-21,Transport,19.81,Gas
+2023-07-22,Food,50.77,Takeout lunch
+2023-07-23,Entertainment,86.91,Books
+2023-07-24,Transport,53.63,Car maintenance
+2023-07-25,Utilities,55.05,Phone bill
+2023-07-26,Transport,66.13,Uber ride
+2023-07-27,Transport,67.58,Public transport pass
+2023-07-28,Other,180.08,Clothing purchase
+2023-07-29,Utilities,285.69,Water bill
+2023-07-30,Food,22.69,Restaurant dinner
+2023-07-31,Transport,20.15,Car maintenance
+2023-08-01,Food,16.24,Grocery shopping
+2023-08-02,Entertainment,78.8,Books
+2023-08-03,Utilities,110.3,Phone bill
+2023-08-04,Other,130.0,Home decor
+2023-08-05,Food,38.76,Restaurant dinner
+2023-08-06,Entertainment,68.68,Books
+2023-08-07,Food,89.4,Farmers market
+2023-08-08,Other,87.81,Office supplies
+2023-08-09,Food,24.11,Takeout lunch
+2023-08-10,Food,67.62,Farmers market
+2023-08-11,Utilities,162.37,Electricity bill
+2023-08-12,Transport,27.45,Uber ride
+2023-08-13,Other,126.4,Clothing purchase
+2023-08-14,Transport,13.02,Car maintenance
+2023-08-15,Transport,14.25,Parking fees
+2023-08-16,Transport,38.41,Car maintenance
+2023-08-17,Transport,36.42,Public transport pass
+2023-08-18,Entertainment,87.65,Video games
+2023-08-19,Utilities,239.19,Gas bill
+2023-08-20,Other,134.74,Clothing purchase
+2023-08-21,Entertainment,102.06,Concert tickets
+2023-08-22,Utilities,216.38,Electricity bill
+2023-08-23,Utilities,254.79,Internet bill
+2023-08-24,Entertainment,121.13,Streaming subscription
+2023-08-25,Utilities,290.3,Internet bill
+2023-08-26,Transport,77.81,Car maintenance
+2023-08-27,Entertainment,127.22,Books
+2023-08-28,Food,45.01,Coffee and snacks
+2023-08-29,Food,61.92,Restaurant dinner
+2023-08-30,Food,79.98,Grocery shopping
+2023-08-31,Utilities,109.11,Gas bill
+2023-09-01,Food,42.19,Restaurant dinner
+2023-09-02,Entertainment,110.21,Books
+2023-09-03,Entertainment,136.52,Books
+2023-09-04,Transport,75.82,Public transport pass
+2023-09-05,Entertainment,12.38,Streaming subscription
+2023-09-06,Other,148.41,Clothing purchase
+2023-09-07,Utilities,140.61,Phone bill
+2023-09-08,Transport,36.47,Gas
+2023-09-09,Entertainment,97.81,Books
+2023-09-10,Transport,53.65,Car maintenance
+2023-09-11,Food,92.96,Grocery shopping
+2023-09-12,Utilities,269.56,Phone bill
+2023-09-13,Transport,49.49,Public transport pass
+2023-09-14,Transport,67.5,Parking fees
+2023-09-15,Utilities,187.87,Water bill
+2023-09-16,Entertainment,70.27,Concert tickets
+2023-09-17,Food,39.22,Farmers market
+2023-09-18,Utilities,106.32,Internet bill
+2023-09-19,Entertainment,38.28,Movie tickets
+2023-09-20,Food,13.07,Restaurant dinner
+2023-09-21,Entertainment,44.52,Video games
+2023-09-22,Transport,10.15,Gas
+2023-09-23,Entertainment,33.23,Movie tickets
+2023-09-24,Entertainment,140.87,Streaming subscription
+2023-09-25,Entertainment,142.06,Movie tickets
+2023-09-26,Entertainment,102.11,Books
+2023-09-27,Entertainment,70.62,Concert tickets
